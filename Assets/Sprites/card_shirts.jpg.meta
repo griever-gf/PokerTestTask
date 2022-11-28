@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 554eb372bc5c050459b0609dadc53131
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: card_shirts_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e1946008ee8645b1285c2db44cd85
+      internalID: 1994394782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1ffcd9a9009834a9b1c9a2392c3689
+      internalID: 265267729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6956b9cb8d9a3cc4d93ba9d605fbd4b1
+      internalID: 1230434087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_3
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c795677342a0e4ca602e1abc297344
+      internalID: 2015475320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_4
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d17e461757da5f499de840c2523c7bd
+      internalID: -1455514194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_5
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99962aa66f4ecf24db2c61a078f6e86e
+      internalID: 1150345637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_6
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cf03a9e068a3c4f8390d44ac9203cb
+      internalID: -144190554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_7
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89afa56d5d9374d9e006d75b902bdd
+      internalID: -275836565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_8
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8396f50fbe8094d43a3e3f18b9e1da64
+      internalID: -2077911361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_9
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e653fd6afee46d148924d0b867c63b5d
+      internalID: 1656813807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_10
+      rect:
+        serializedVersion: 2
+        x: 4638
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c9dcc8cebad3459f7f8f15531f7df
+      internalID: 2116366768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_11
+      rect:
+        serializedVersion: 2
+        x: 5097
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faceb814cb4ac6449941eef35948c400
+      internalID: -1983611305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_12
+      rect:
+        serializedVersion: 2
+        x: 5556
+        y: 2531
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb782416865a074ca9127e92915c3c2
+      internalID: -839367819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52317276ee52e8d40999b14433812082
+      internalID: 1681724292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bba4e1a5edfc646bfaf821c484852c
+      internalID: 349240762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_15
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437d6daff4d4054894bcbfb041828d1
+      internalID: 1346422763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_16
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ce17c5dc466a4b938cbe3c90422bb
+      internalID: 1042708859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_17
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f2804426c120246bc01ad68fa9b4d2
+      internalID: -903480929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_18
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2ff77067522d4ab8ac7b513fb6580
+      internalID: -473910838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_19
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c4cc33b4f21d4882ad43b4fafd5d0
+      internalID: -523290587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_20
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12558a6330beb084ea050708de120b9b
+      internalID: -2029333643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_21
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca752e82e5e3e499aeec1531960a8f
+      internalID: -1322549854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_22
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11cad020f94ebf4c8aa60c7355857aa
+      internalID: -546035492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_23
+      rect:
+        serializedVersion: 2
+        x: 4638
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2615d63734954baeea43d3850498f
+      internalID: 1086570999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_24
+      rect:
+        serializedVersion: 2
+        x: 5097
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974cd92735b56b548802141e6c02675b
+      internalID: -1436947784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_25
+      rect:
+        serializedVersion: 2
+        x: 5556
+        y: 1871
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e10decd6d26d6a4bab932e5402f9fda
+      internalID: -2021275463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df34d251b70ee44b0b39f4289d94c6
+      internalID: -1802527734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684013817d07c24fa872eef7bbdbdda
+      internalID: 1625130741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_28
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699fbce0ee9bb241a3e0d4e5c4ee97f
+      internalID: 326448739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_29
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb617c52389f39438c1753dbbb9cc79
+      internalID: 1598921896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_30
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c3ed0187618c9489f65d4c5ad65c4f
+      internalID: 464490896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_31
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9ec9cf507ad5141921debab7f4c4c9
+      internalID: 889499980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_32
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679fd550845a0e2469dba5d1c71974bf
+      internalID: -1543303948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_33
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ccd2c471e9ccd4da6337dfa1c7b6fc
+      internalID: -1689949861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_34
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a796c0cde491d8b4cbaf2694f88aca8b
+      internalID: -63533633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_35
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28f2a8c2f67b664fa4b649c7395016c
+      internalID: -716099161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_36
+      rect:
+        serializedVersion: 2
+        x: 4638
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb9c4edc5a0a304cb1e97cbead5a905
+      internalID: -1657368226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_37
+      rect:
+        serializedVersion: 2
+        x: 5097
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a20298fd5571d46b6f062f643c157b
+      internalID: -1691320499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_38
+      rect:
+        serializedVersion: 2
+        x: 5556
+        y: 1211
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffba1c28839eaa74fa91cd9775e432e9
+      internalID: -1681937609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4bd84364e50354aa2f4a176cc770be
+      internalID: 537714140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_40
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1595e4c30d4d4a4439c7fa2a7e69e54f
+      internalID: 232459861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_41
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5826fa3079bff4e9d26d29062dcf2c
+      internalID: 1995563169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_42
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b447c78138075245aeeda7219bf9066
+      internalID: 1418938164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_43
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836ad6edaf60fc4498eb58fa78d0ce6
+      internalID: 114758700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_44
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89501c4faba29da4d8282f42ef4ed0b8
+      internalID: 105596373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_45
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450859e2783f42549aeaec5d61d65be7
+      internalID: 876424544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_46
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4add1dc705ce1cc4a83b612404007bf0
+      internalID: -2126068506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_47
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5881871527d31947888174827685357
+      internalID: -77075726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_48
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b5f1d8c62c527418d8c56e3f14544f
+      internalID: 1842990241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_49
+      rect:
+        serializedVersion: 2
+        x: 4638
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82d6edbb559a954799dc555e861e94f
+      internalID: 1129809721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_50
+      rect:
+        serializedVersion: 2
+        x: 5097
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bbbf5aae6ae494a93b56d2947d484d
+      internalID: 1174248708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_shirts_51
+      rect:
+        serializedVersion: 2
+        x: 5556
+        y: 551
+        width: 404
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03138e7e63c0ecd4299a45d3d26b500c
+      internalID: -691821759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      card_shirts_25: -2021275463
+      card_shirts_24: -1436947784
+      card_shirts_2: 1230434087
+      card_shirts_21: -1322549854
+      card_shirts_22: -546035492
+      card_shirts_37: -1691320499
+      card_shirts_10: 2116366768
+      card_shirts_16: 1042708859
+      card_shirts_12: -839367819
+      card_shirts_40: 232459861
+      card_shirts_35: -716099161
+      card_shirts_19: -523290587
+      card_shirts_8: -2077911361
+      card_shirts_11: -1983611305
+      card_shirts_36: -1657368226
+      card_shirts_33: -1689949861
+      card_shirts_7: -275836565
+      card_shirts_41: 1995563169
+      card_shirts_48: 1842990241
+      card_shirts_32: -1543303948
+      card_shirts_43: 114758700
+      card_shirts_27: 1625130741
+      card_shirts_50: 1174248708
+      card_shirts_34: -63533633
+      card_shirts_29: 1598921896
+      card_shirts_5: 1150345637
+      card_shirts_20: -2029333643
+      card_shirts_46: -2126068506
+      card_shirts_38: -1681937609
+      card_shirts_26: -1802527734
+      card_shirts_47: -77075726
+      card_shirts_14: 349240762
+      card_shirts_51: -691821759
+      card_shirts_42: 1418938164
+      card_shirts_3: 2015475320
+      card_shirts_4: -1455514194
+      card_shirts_23: 1086570999
+      card_shirts_30: 464490896
+      card_shirts_28: 326448739
+      card_shirts_31: 889499980
+      card_shirts_45: 876424544
+      card_shirts_1: 265267729
+      card_shirts_6: -144190554
+      card_shirts_17: -903480929
+      card_shirts_39: 537714140
+      card_shirts_18: -473910838
+      card_shirts_49: 1129809721
+      card_shirts_9: 1656813807
+      card_shirts_15: 1346422763
+      card_shirts_44: 105596373
+      card_shirts_0: 1994394782
+      card_shirts_13: 1681724292
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
